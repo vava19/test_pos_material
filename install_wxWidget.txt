@@ -1,0 +1,5 @@
+
+sudo apt update
+sudo apt install libwxgtk3.0-gtk3-dev
+wx-config --version
+
